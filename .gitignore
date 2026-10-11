@@ -1,0 +1,17 @@
+# Build directories
+build/
+bin/
+lib/
+_deps/
+*.dSYM/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*~
+compile_commands.json
+
+# OS files
+.DS_Store
+Thumbs.db
